@@ -1,4 +1,4 @@
-# Password Security Assessment & Risk Analysis Tool
+# Password Security Analyzer
 
 ## Description
 This project is a Password Security Analyzer developed in Assembly Language using Irvine32 library. It checks how strong a password is based on character types, length, and security rules.
