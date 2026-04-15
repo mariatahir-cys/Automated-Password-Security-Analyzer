@@ -30,4 +30,4 @@ User enters a password, and the program:
 - Strong → Very hard to crack
 
 ## Author
-Maria Tahir (BS Cyber Security)s
+Maria Tahir 
