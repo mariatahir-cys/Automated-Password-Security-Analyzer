@@ -22,7 +22,7 @@ User enters a password, and the program:
 ## Tools Used
 - Assembly Language (x86)
 - Irvine32 Library
-- Visual Studio
+- MASM / Visual Studio
 
 ## Output
 - Weak → Easy to crack
@@ -30,4 +30,4 @@ User enters a password, and the program:
 - Strong → Very hard to crack
 
 ## Author
-Maria Tahir 
+Maria Tahir (BS Cyber Security)s
