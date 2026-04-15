@@ -22,7 +22,7 @@ User enters a password, and the program:
 ## Tools Used
 - Assembly Language (x86)
 - Irvine32 Library
-- MASM / Visual Studio
+- Visual Studio
 
 ## Output
 - Weak → Easy to crack
