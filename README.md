@@ -22,12 +22,12 @@ User enters a password, and the program:
 ## Tools Used
 - Assembly Language (x86)
 - Irvine32 Library
-- MASM / Visual Studio
+- Visual Studio
 
 ## Output
-- Weak → Easy to crack
-- Medium → Moderate security
-- Strong → Very hard to crack
+- Weak: Easy to crack
+- Medium: Moderate security
+- Strong: Very hard to crack
 
 ## Author
-Maria Tahir (BS Cyber Security)s
+Maria Tahir 
